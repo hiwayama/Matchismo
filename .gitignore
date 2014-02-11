@@ -1,0 +1,9 @@
+# vim: set filetype=CONF
+# OS X
+.DS_Store
+
+# XCode
+build/
+
+# CocoaPods
+Pods/
